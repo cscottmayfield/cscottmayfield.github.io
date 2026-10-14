@@ -2,8 +2,12 @@ body {
   background-color: silver;
 }
 h1 {
-  color: goldenrod;
+  color: steelblue;
 }
 p {
-  color: goldenrod;
+  color: steelblue;
+}
+.suffer-button {
+  color: red;
+  background-color: black;
 }
