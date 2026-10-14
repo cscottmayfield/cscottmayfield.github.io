@@ -7,14 +7,7 @@ h1 {
 p {
   color: goldenrod;
 }
-button {
-  color: whitesmoke;
-  border: none;
-  height: 40px;
-  width: 70px;
-  border-radius: 5px;
-  cursor: pointer;
-}
+
 .FRIG-OFF-button {
   color: black;
   background-color: red;
