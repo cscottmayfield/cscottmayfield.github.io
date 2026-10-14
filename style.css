@@ -7,3 +7,11 @@ h1 {
 p {
   color: orange;
 }
+button {
+  color: whitesmoke;
+  border: none;
+  height: 40px;
+  width: 70px;
+  border-radius: 5px;
+  cursor: pointer;
+}
